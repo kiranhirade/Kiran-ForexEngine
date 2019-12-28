@@ -15,7 +15,7 @@ Build Restful CRUD API for a forex-engine application using Spring Boot, H2 data
 **1. Clone the application**
 
 ```bash
-git clone https://github.com/callicoder/spring-boot-mysql-rest-api-tutorial.git
+git clone https://github.com/kiranhirade/Kiran-ForexEngine.git
 ```
 
 **2. Create H2 database**
